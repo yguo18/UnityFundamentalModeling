@@ -13,7 +13,7 @@ Button special effets
 KeyBoard Desigin Inteface
 ===
 * 1.using above selection desigin of animation's  for button<br>
-* 2.as shown in the figure
+* 2.as shown in the figure<br>
 ![hierarchy figure](https://github.com/yguo18/UnityFundamentalModeling/raw/master/KeyBoard%20Desigin%20Inteface/Assets/Image/KeyHierarchy.png)<br>
 * 3.As is shown in the asset picture<br>
 ![asset](https://github.com/yguo18/UnityFundamentalModeling/raw/master/KeyBoard%20Desigin%20Inteface/Assets/Image/asset.png)<br>
