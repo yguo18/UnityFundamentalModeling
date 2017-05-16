@@ -9,4 +9,13 @@ Button special effets
 * 4.choose Window-->animator  exmaple fllow picture
 ![animator](https://github.com/yguo18/UnityFundamentalModeling/raw/master/ButtonSpecialEffects/Assets/Image/animator.PNG)<br>
 * finished!
-![xiaoguotu](https://github.com/yguo18/UnityFundamentalModeling/raw/master/ButtonSpecialEffects/Assets/Image/effetpic.png)
+![xiaoguotu](https://github.com/yguo18/UnityFundamentalModeling/raw/master/ButtonSpecialEffects/Assets/Image/effetpic.png)<br>
+KeyBoard Desigin Inteface
+===
+* 1.using above selection desigin of animation's  for button<br>
+* 2.as shown in the figure
+![hierarchy figure](https://github.com/yguo18/UnityFundamentalModeling/raw/master/KeyBoard%20Desigin%20Inteface/Assets/Image/KeyHierarchy.png)<br>
+* 3.As is shown in the asset picture<br>
+![asset](https://github.com/yguo18/UnityFundamentalModeling/raw/master/KeyBoard%20Desigin%20Inteface/Assets/Image/asset.png)<br>
+* 4.Final renderings
+![renderings image](https://github.com/yguo18/UnityFundamentalModeling/raw/master/KeyBoard%20Desigin%20Inteface/Assets/Image/rendering.png)
