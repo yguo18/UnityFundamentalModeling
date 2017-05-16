@@ -11,7 +11,7 @@ Button special effets
 * finished!
 ![xiaoguotu](https://github.com/yguo18/UnityFundamentalModeling/raw/master/ButtonSpecialEffects/Assets/Image/effetpic.png)<br>
 
-#KeyBoard Desigin Inteface
+# KeyBoard Desigin Inteface
 
 * 1.using above selection desigin of animation's  for button<br>
 * 2.as shown in the figure<br>
